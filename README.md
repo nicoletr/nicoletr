@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nicoletr
+- 👋 Hi, I’m Nicole
 - 👀 I’m interested in... so many things!
 - 🌱 I’m currently learning Web Development
 - 📫 How to reach me: nicole.trpevski@gmail.com
