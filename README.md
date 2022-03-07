@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nicole
 - 👀 I’m interested in... so many things!
-- 🌱 I’m currently learning Web Development
+- 🌱 I've just completed my certificate in full-stack web development
 - 📫 How to reach me: nicole.trpevski@gmail.com
 
 <!---
